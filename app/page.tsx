@@ -95,7 +95,7 @@ export default function HomePage() {
               <Card className="glass-card p-0 h-full overflow-hidden">
                 <div className="relative h-full min-h-[400px]">
                   <Image
-                    src="/professional-developer-portrait.png"
+                    src="/ahzaz-profile.png"
                     alt="Ahzaz Ahmed"
                     fill
                     className="object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
